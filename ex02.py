@@ -13,4 +13,4 @@ try:
     else:
         print('Esse é um número inválido!!!')
 except ValueError:
-    print('Digite um número inteiro.')
+    print('Digite somente números!!!')
